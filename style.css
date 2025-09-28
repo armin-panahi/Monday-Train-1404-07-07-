@@ -1,0 +1,20 @@
+/* Ajax */
+/* Lesson 3 */
+
+
+.users {
+    border-bottom: 1px solid black;
+    display: flex;
+    align-items: center;
+}
+
+.users > img {
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    padding: 1rem;
+}
+
+.users > h3 {
+    font-size: 34px;
+}
